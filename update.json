@@ -1,7 +1,7 @@
 {
   "version_code": 3,
   "version_name": "2.1",
-  "download_url": "https://github.com/dennndennn34-dev/last04ka-updates/releases/download/1.2/app-debug.apk",
+  "download_url": "https://github.com/dennndennn34-dev/last04ka-updates/releases/download/2.1/app-debug.apk",
   "update_message": "Обновление 2.1\n\n- Полностью переработан Аэрохоккей\n- Исправлена физика столкновений\n- Бот стал быстрее и умнее\n- Исправлены мелкие баги",
   "force_update": false,
   "release_date": "2026-07-03"
