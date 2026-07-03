@@ -1,7 +1,7 @@
 {
   "version_code": 2,
   "version_name": "2.0",
-  "download_url": "https://github.com/dennndennn34-dev/last04ka-updates/releases/download/1.2/Last04ka_v1.0.1.2.apk",
+  "download_url": "https://github.com/dennndennn34-dev/last04ka-updates/releases/download/1.2/app-debug.apk",
   "update_message": "Обновление 2.0\n\n- Добавлены групповые чаты\n- Исправлены аудиозвонки\n- Улучшена стабильность WiFi Direct\n- Исправлены ошибки в фоторедакторе",
   "force_update": false,
   "release_date": "2026-07-03"
